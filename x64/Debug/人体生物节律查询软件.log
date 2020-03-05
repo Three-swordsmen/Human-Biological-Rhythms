@@ -1,0 +1,5 @@
+﻿  生物节律查询.cpp
+D:\学习\c语言\git\Human-Biological-Rhythms\生物节律查询.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\学习\c语言\git\Human-Biological-Rhythms\生物节律查询.cpp(111,77): warning C4474: printf: 格式字符串中传递的参数太多
+D:\学习\c语言\git\Human-Biological-Rhythms\生物节律查询.cpp(111,77): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  人体生物节律查询软件.vcxproj -> D:\学习\c语言\git\Human-Biological-Rhythms\x64\Debug\人体生物节律查询软件.exe
